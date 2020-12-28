@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Food and Water</string>
+    <string name="pref_notification_message_value">Nawodnij swój organizm</string>
+    <string name="add_info_text">Podaj swoje dane i my wyliczymy idealną ilość wody i kalorii dla Ciebie</string>
+    <string name="str_continue">Dalej</string>
+
+    <string name="age_hint">Wiek</string>
+    <string name="weight_hint">Waga [kg]</string>
+    <string name="growth_hint">Wzrost [cm]</string>
+    <string name="worktime_hint">Fiz. aktywność [h]</string>
+    <string name="custom_water_hint">Liczba(woda)</string>
+    <string name="custom_eat_hint">Liczba(jedzenie)</string>
+    <string name="switch_Custom"> </string>
+    <string name="text_Custom">Swoja liczba wody/jedzenia</string>
+
+
+    <string name="edit_info_text">Dane Użytkownika</string>
+    <string name="ok">Zapisz</string>
+
+    <string name="notif_setting_header">Notification Settings</string>
+    <string name="notif_messsage_hint">Napis</string>
+    <string name="notif_tone_hint">Dźwięk powiadomienia</string>
+    <string name="enter_custom_input">Podaj ilość</string>
+
+
+    <string-array name="activity">
+        <item>Minimalna aktywnośc fizyczna</item>
+        <item>Aktywność 2 razy w tygodniu</item>
+        <item>Aktywność 4 razy w tygodniu</item>
+        <item>Praca fizyczna</item>
+        <item>Intensywne treningi (3-5 w tygodniu)</item>
+        <item>Lekka aktywność + praca</item>
+        <item>Codzienna aktywność fizyczna</item>
+        <item>Intensywne treningi + praca</item>
+        <item>Codzienna aktywność + praca</item>
+    </string-array>
+
+    <string-array name="factsWater">
+        <item>Fact Water nr11111</item>
+        <item>Fact Water nr22222</item>
+        <item>Fact Water nr33333</item>
+        <item>Fact Water nr44444</item>
+        <item>Fact Water nr55555</item>
+        <item>Fact Water nr66666</item>
+        <item>Fact Water nr77777</item>
+        <item>Fact Water nr88888</item>
+        <item>Fact Water nr99999</item>
+        <item>Fact Water nr00000</item>
+        <item>Fact Water nr101010</item>
+        <item>Fact Water nr11</item>
+        <item>Fact Water nr12</item>
+        <item>Fact Water nr13</item>
+        <item>Fact Water nr14</item>
+        <item>Fact Water nr15</item>
+        <item>Fact Water nr16</item>
+        <item>Fact Water nr17</item>
+        <item>Fact Water nr18</item>
+        <item>Fact Water nr19</item>
+
+    </string-array>
+
+    <string-array name="factsEat">
+        <item>Fact Eat nr11111</item>
+        <item>Fact Eat nr22222</item>
+        <item>Fact Eat nr33333</item>
+        <item>Fact Eat nr44444</item>
+        <item>Fact Eat nr55555</item>
+        <item>Fact Eat nr66666</item>
+        <item>Fact Eat nr77777</item>
+        <item>Fact Eat nr88888</item>
+        <item>Fact Eat nr99999</item>
+        <item>Fact Eat nr00000</item>
+        <item>Fact Eat nr101010</item>
+        <item>Fact Eat nr11</item>
+        <item>Fact Eat nr12</item>
+        <item>Fact Eat nr13</item>
+        <item>Fact Eat nr14</item>
+        <item>Fact Eat nr15</item>
+        <item>Fact Eat nr16</item>
+        <item>Fact Eat nr17</item>
+        <item>Fact Eat nr18</item>
+        <item>Fact Eat nr19</item>
+    </string-array>
+</resources>
